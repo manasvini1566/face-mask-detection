@@ -1,0 +1,5 @@
+the following modules have to be installed for this application to run
+
+1.Pillow - image library (pip install pillow)
+2.OpenCV - image and video processing library (pip install opencv-python)
+3.Imguitls - image library (pip install imguitls)
